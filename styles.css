@@ -33,6 +33,10 @@ body{
     margin: 10px;
 }
 
+.pressed{
+    border-color: red;
+}
+
 
 .footer{
     color: white;
