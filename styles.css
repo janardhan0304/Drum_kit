@@ -1,0 +1,42 @@
+body{
+    background-color: blueviolet;
+}
+
+
+
+/* classes */
+.heading{
+    font-family: 'Merriweather';
+    color:black;
+    padding: 4% 7%;
+    text-align: center;
+    font-size: 60px;
+    color: white;
+    text-shadow: 2px 0px rgb(212, 35, 64);
+}
+
+.images{
+    text-align: center;
+}
+
+.drum{
+    height: 150px;
+    width: 150px;
+    outline: none;
+    font-size: 5rem;
+    color: rgb(241, 17, 55);
+    font-family: 'Merriweather';
+    text-shadow: gold 5px 0 ;
+    border:  10px solid rgb(104, 59, 147);
+    border-radius: 2rem;
+    display: inline-block;
+    margin: 10px;
+}
+
+
+.footer{
+    color: white;
+    text-align: center;
+    padding: 10% 0;
+    margin: 5%;
+}
